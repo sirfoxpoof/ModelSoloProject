@@ -73,9 +73,9 @@ Material:
     - _OutlineWidth: 0
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
-    - _ScaleRatioA: 1
-    - _ScaleRatioB: 1
-    - _ScaleRatioC: 1
+    - _ScaleRatioA: 0.8333333
+    - _ScaleRatioB: 0.6770833
+    - _ScaleRatioC: 0.6770833
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0
@@ -117,7 +117,7 @@ Texture2D:
   m_Name: Beyond Wonderland SDF Atlas
   m_ImageContentsHash:
     serializedVersion: 2
-    Hash: 00000000000000000000000000000000
+    Hash: 736ec4a5fbf410ebbe00801ebf0df723
   m_ForcedFallbackFormat: 4
   m_DownscaleFallback: 0
   m_IsAlphaChannelOptional: 0
@@ -168,9 +168,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: Beyond Wonderland SDF
   m_EditorClassIdentifier: 
-  hashCode: 0
+  hashCode: 546288776
   material: {fileID: -6435645452452524062}
-  materialHashCode: 0
+  materialHashCode: 1625199400
   m_Version: 1.1.0
   m_SourceFontFileGUID: ea8527476def69e4daaaf472ee116778
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: ea8527476def69e4daaaf472ee116778,
